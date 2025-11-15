@@ -32,27 +32,27 @@
 		<dc:subject id="subject-1">Mystery and detective stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sj96005978</meta>
-		<meta property="se:subject">Children's</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta id="collection-1" property="belongs-to-collection">Nancy Drew Mystery Stories</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">A young amateur detective attempts to recover her friend's stolen diamonds.</dc:description>
+		<dc:description id="description">A young amateur detective attempts to recover her friend’s stolen diamonds.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-		  <p>Nancy Drew's sleuthing skills are once again put to the test when she must recover her friend's stolen inheritance, forty thousand dollars worth of diamonds.</p>
-		  <p><i>The Mystery at Lilac Inn</i> is the fourth book of the <a href="https://standardebooks.org/collections/nancy-drew-mystery-stories">Nancy Drew Mystery Stories</a>. It was first published in 1930. A revised edition with a different plot was released in 1960, but this Standard Ebooks edition follows the first edition text.</p>
+			&lt;p&gt;Nancy Drew’s sleuthing skills are once again put to the test when she must recover her friend’s stolen inheritance, forty thousand dollars worth of diamonds.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Mystery at Lilac Inn&lt;/i&gt; is the fourth book of the &lt;a href="https://standardebooks.org/collections/nancy-drew-mystery-stories"&gt;Nancy Drew Mystery Stories&lt;/a&gt;. It was first published in 1930. A revised edition with a different plot was released in 1960, but this Standard Ebooks edition follows the first edition text.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20250820</dc:source>
-		<dc:source>https://www.archive.org/details/in.ernet.dli.2015.268875</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.268875</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_at_Lilac_Inn</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/carolyn-keene_the-mystery-at-lilac-inn</meta>
 		<dc:creator id="author">Carolyn Keene</dc:creator>
 		<meta property="file-as" refines="#author">Keene, Carolyn</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Carolyn_Keene</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79084050<</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79084050</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Russell H. Tandy</dc:contributor>
 		<meta property="file-as" refines="#artist">Tandy, Russell H.</meta>
