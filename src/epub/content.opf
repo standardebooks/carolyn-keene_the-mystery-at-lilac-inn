@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn</dc:identifier>
 		<dc:date>2026-01-01T16:00:22Z</dc:date>
@@ -38,11 +38,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Nancy Drew Mystery Stories</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">A young amateur detective attempts to recover her friend’s stolen diamonds.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young amateur detective attempts to recover her friend’s stolen diamonds.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The young detective &lt;a href="https://standardebooks.org/collections/nancy-drew-mystery-stories"&gt;Nancy Drew’s&lt;/a&gt; sleuthing skills are once again put to the test when her friend’s inheritance of diamonds—forty thousand dollars worth—is stolen during a lunch. Nancy struggles to uncover enough clues to break open the case before the police arrest her friend’s guardian, the last person known to have the diamonds. Can Nancy solve the case and exonerate an innocent person before it’s too late?&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Mystery at Lilac Inn&lt;/i&gt; was ghostwritten by Mildred Wirt Benson, one of the many ghostwriters who wrote Nancy Drew stories under the pen name &lt;a href="https://standardebooks.org/ebooks/carolyn-keene"&gt;Carolyn Keene&lt;/a&gt;. It was first published in 1930, and was almost entirely rewritten in 1961 by Harriet Stratemeyer Adams. This Standard Ebooks edition follows the first edition text.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20250820</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.268875</dc:source>
