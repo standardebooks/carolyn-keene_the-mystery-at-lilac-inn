@@ -38,7 +38,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Nancy Drew Mystery Stories</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:abstract>A young amateur detective attempts to recover her friend’s stolen diamonds.</dc:abstract>
+		<meta property="schema:abstract">A young amateur detective attempts to recover her friend’s stolen diamonds.</meta>
 		<dc:description>
 			&lt;p&gt;The young detective &lt;a href="https://standardebooks.org/collections/nancy-drew-mystery-stories"&gt;Nancy Drew’s&lt;/a&gt; sleuthing skills are once again put to the test when her friend’s inheritance of diamonds—forty thousand dollars worth—is stolen during a lunch. Nancy struggles to uncover enough clues to break open the case before the police arrest her friend’s guardian, the last person known to have the diamonds. Can Nancy solve the case and exonerate an innocent person before it’s too late?&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Mystery at Lilac Inn&lt;/i&gt; was ghostwritten by Mildred Wirt Benson, one of the many ghostwriters who wrote Nancy Drew stories under the pen name &lt;a href="https://standardebooks.org/ebooks/carolyn-keene"&gt;Carolyn Keene&lt;/a&gt;. It was first published in 1930, and was almost entirely rewritten in 1961 by Harriet Stratemeyer Adams. This Standard Ebooks edition follows the first edition text.&lt;/p&gt;
